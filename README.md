@@ -1,6 +1,6 @@
 # Lumière Hair & Beauty Studio — Website
 
-**Author:** Dhikshith Ram Poshala — B.E. CSE (AIML), St Mary's Engineering College, Hyderabad (2023–2027)
+**Author:** Dhikshith Ram Poshala — BTech CSE (AIML), St Mary's Engineering College, Hyderabad (2023–2027)
 **LinkedIn:** https://www.linkedin.com/in/poshala-dhikshith-ram-a422492b2 · **GitHub:** https://github.com/Rams1586
 
 A static salon website (HTML/CSS/JavaScript, no build step, no backend) for a local hair, skin and bridal business — services and pricing, gallery, testimonials, and a booking form.
