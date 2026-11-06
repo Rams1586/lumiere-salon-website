@@ -1,0 +1,10 @@
+{
+  "name": "lumiere-salon-website",
+  "version": "1.0.0",
+  "description": "Static website for Lumiere Hair & Beauty Studio — internship live-project demo.",
+  "private": true,
+  "scripts": {
+    "start": "npx serve . -l 3000"
+  },
+  "license": "MIT"
+}
